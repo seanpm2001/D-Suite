@@ -1,7 +1,7 @@
 
 ***
 
-# D-Suie (Redirect)
+# D-Suite (Redirect)
 
 This project is a redirect page. The repository you are looking for is located here:
 
@@ -9,6 +9,6 @@ This project is a redirect page. The repository you are looking for is located h
 
 ***
 
-**File version:** `1 (2023, Monday, January 16th at 5:31 pm PST)`
+**File version:** `2 (2023, Monday, January 16th at 5:32 pm PST)`
 
 ***
